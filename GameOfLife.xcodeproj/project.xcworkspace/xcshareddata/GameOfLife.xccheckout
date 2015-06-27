@@ -7,7 +7,7 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>008319EC-BB88-4D1C-83B3-AF1856FA9395</string>
 	<key>IDESourceControlProjectName</key>
-	<string>GameOfLife</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>4CA1C8602DF519740B7E9039B09C56605FFE8C6E</key>
@@ -16,7 +16,7 @@
 		<string>https://github.com/david-malkowski/GameOfLife.spritebuilder.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>GameOfLife.xcodeproj</string>
+	<string>GameOfLife.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>4CA1C8602DF519740B7E9039B09C56605FFE8C6E</key>
